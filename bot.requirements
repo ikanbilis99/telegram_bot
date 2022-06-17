@@ -1,0 +1,5 @@
+python-telegram-bot
+python-dotenv
+pymysql
+pyqrcode
+pypng
